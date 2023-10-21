@@ -6,7 +6,7 @@
 
 Information Countermeasure Technique Institute, Faculty of Computing, Harbin Institute of Technology
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/JoshuaWenHIT/CV-RL)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=github.com/JoshuaWenHIT/CV-RL)
 [![DOI](https://img.shields.io/badge/arXiv-2309.00610-b31b1b.svg)](https://doi.org/10.3390/rs15205031)
   <a href="https://img.shields.io/badge/version-v0.1.0-blue">
     <img alt="version" src="https://img.shields.io/badge/version-v1.0.0-blue?color=FF8000?color=009922" />
