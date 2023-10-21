@@ -9,7 +9,7 @@ Information Countermeasure Technique Institute, Faculty of Computing, Harbin Ins
 ![Counter](https://api.infinitescript.com/badgen/count?name=JoshuaWenHIT/CV-RL)
 [![DOI](https://img.shields.io/badge/arXiv-2309.00610-b31b1b.svg)](https://doi.org/10.3390/rs15205031)
 
-![HeighLights](https://www.jianguoyun.com/p/DYi3EmUQ2sm1CxjsjaEFIAA)
+![HeighLights](https://raw.githubusercontent.com/JoshuaWenHIT/PicBed/master/GA.tiff)
 
 ## Update
 
