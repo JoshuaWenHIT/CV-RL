@@ -6,7 +6,7 @@
 
 Information Countermeasure Technique Institute, Faculty of Computing, Harbin Institute of Technology
 
-![DOI](https://img.shields.io/badge/DOI-aa)
+![DOI](https://img.shields.io/badge/DOI-{10.3390/rs15205031})
   <a href="https://img.shields.io/badge/version-v0.1.0-blue">
     <img alt="version" src="https://img.shields.io/badge/version-v1.0.0-blue?color=FF8000?color=009922" />
   </a>
