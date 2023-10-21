@@ -7,7 +7,7 @@
 Information Countermeasure Technique Institute, Faculty of Computing, Harbin Institute of Technology
 
 [![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/welcome-page)](https://github.com/JoshuaWenHIT/CV-RL)
-[![DOI](https://img.shields.io/badge/doi-10.3390/rs15205031.svg)](https://doi.org/10.3390/rs15205031)
+[![DOI](https://img.shields.io/badge/doi-{10.3390/rs15205031.svg})](https://doi.org/10.3390/rs15205031)
   <a href="https://img.shields.io/badge/version-v0.1.0-blue">
     <img alt="version" src="https://img.shields.io/badge/version-v1.0.0-blue?color=FF8000?color=009922" />
   </a>
