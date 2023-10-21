@@ -4,7 +4,7 @@
 
 [Jiazheng Wen](https://orcid.org/0000-0001-7387-4970), [Huanyu Liu](http://homepage.hit.edu.cn/liuhuanyu), [Junbao Li](http://homepage.hit.edu.cn/lijunbao)
 
-Faculty of Computing, Harbin Institute of Technology
+IPPR Lab, Faculty of Computing, Harbin Institute of Technology
 
 ![Counter](https://api.infinitescript.com/badgen/count?name=JoshuaWenHIT/CV-RL)
 [![DOI](https://img.shields.io/badge/arXiv-2309.00610-b31b1b.svg)](https://doi.org/10.3390/rs15205031)
